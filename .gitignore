@@ -28,3 +28,14 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+# Extra useful ignores for Laravel
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/logs/*
+public/hot
+public/build
+.phpunit.result.cache
+.phpunit.cache
