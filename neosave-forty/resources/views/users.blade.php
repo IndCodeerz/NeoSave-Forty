@@ -5,7 +5,7 @@
 </head>
 <body>
 
-    <h1>User List</h1>
+    <h1>User Listt</h1>
 
     <ul>
         @foreach ($users as $user)
